@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: doc-scanner
+Version: 0.1
+Summary: Package to scan your doc like cam scanner
+Home-page: https://github.com/GrayR00t/doc_scanner
+Author: Neeraj Singh
+Author-email: ns28@iitbbs.ac.in
+License: UNKNOWN
+Description: # doc_scanner
+        Python pip package to scan document. Like cam scanner in android phone. 
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
